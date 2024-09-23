@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?t=st=1716622530~exp=1716626130~hmac=6f5b4adb3a224caf1014a654f7f8ce5c50e150be95bbd7f34482a0d3c18fd8d5&w=1060)](https://abhishekbhavnani-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Abhishek Bhavnani</h1>
 <h3 align="center">A passionate web developer from Ahmedabad,Gujarat</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/computer-coding-icons-set_1284-37673.jpg?w=740&t=st=1727057893~exp=1727058493~hmac=3907149082ae7f55f4229bc7749f63417dda5de973eabca2c86bf446650cc96c">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbhavnani2003&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbhavnani2003" /> </p>
 
