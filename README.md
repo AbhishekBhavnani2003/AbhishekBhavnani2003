@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **UI/UX**
 
-- 👨‍💻 All of my projects are available at [https://abhishekbhavnani-portfolio.netlify.app/](https://abhishekbhavnani-portfolio.netlify.app/)
-
 - 💬 Ask me about **HTML, CSS, JS, REACT, NODEJS , EXPRESSJS , MONGODB**
 
 - 📫 How to reach me **abhishekbhavnani2003@gmail.com**
